@@ -1,4 +1,4 @@
-This small project is inspired by https://www.youtube.com/watch?v=sEpRzyPRH0s
+This small project is inspired by [Siraj Raval - Data Visualization with D3.js](https://www.youtube.com/watch?v=sEpRzyPRH0s)
 It contains some visualizations of iris data set with D3.js, accessible via browser.
 
 ##Dependencies
